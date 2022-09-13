@@ -1,2 +1,0 @@
-# Fearless
-Fearless project
